@@ -469,7 +469,7 @@ padding: 1.5px 0;
 
 .footer-list-links {
     display: flex;
-    column-gap: 16px;
+    gap: 16px;
     justify-content: center;
 }
 
